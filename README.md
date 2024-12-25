@@ -1,4 +1,5 @@
 # Unhinged Algorithms
+Unhinged Algorithms is a repository of algorithms that are horrendous in nature. My degree is being put at good use here as you can see.
 
 ## Index
 
