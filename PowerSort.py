@@ -12,8 +12,6 @@ def compute_power_stack(lst):
     result = lst[-1]
     for num in reversed(lst[:-1]):
         result = num ** result
-        if result > 1e6:
-            return float('inf')
     return result
 
 
