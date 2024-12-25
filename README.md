@@ -2,14 +2,6 @@
 
 ## Index
 
-### GaslightSort
-
-**GaslightSort** is a really, really fast sorting algorithm.
-
-**Does it Work?**
-
-Yes, haters will say it doesn't.
-
-**I tried it and it didn't sort anything?**
-
-You sound pretty dumb saying that.
+| Name          | Description                                     | Works?                          | Result                                            |
+|---------------|-------------------------------------------------|---------------------------------|---------------------------------------------------|
+| GaslightSort | GaslightSort is a really, really fast sorting algorithm. | Yes, haters will say it doesn't. | You sound pretty dumb saying that it doesn't work. |
